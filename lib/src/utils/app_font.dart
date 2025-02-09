@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-class FontUtil {
+class AppFont {
   static String fontFamily = 'KantumruyPro';
 
   static TextStyle getTextStyle({

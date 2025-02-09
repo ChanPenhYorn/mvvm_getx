@@ -6,7 +6,7 @@ class AppPages {
   static List<GetPage> routes = [
     GetPage(
       name: AppRoutes.home,
-      page: () => const HomeScreen(),
+      page: () => HomeScreen(),
     ),
   ];
 }

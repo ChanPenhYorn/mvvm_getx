@@ -2,7 +2,7 @@ import 'package:get/get.dart';
 import 'dart:convert';
 import 'package:flutter/services.dart';
 
-class TranslationUtil extends Translations {
+class AppTranslation extends Translations {
   final Map<String, Map<String, String>> _translations = {};
 
   @override
