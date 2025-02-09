@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:todo_kh/src/routes/app_page.dart';
-import 'package:todo_kh/src/routes/app_route.dart';
-import 'package:todo_kh/src/utils/translation_util.dart';
-import 'package:todo_kh/src/views/home/home_screen.dart';
+import 'package:mvvm_getx/src/routes/app_page.dart';
+import 'package:mvvm_getx/src/routes/app_route.dart';
+import 'package:mvvm_getx/src/utils/translation_util.dart';
+import 'package:mvvm_getx/src/views/home/home_screen.dart';
 import 'package:get/get.dart';
 
 void main() async {
